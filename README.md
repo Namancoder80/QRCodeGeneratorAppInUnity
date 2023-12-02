@@ -1,4 +1,6 @@
 # QRCodeGeneratorAppInUnity
+![Screenshot 2023-12-02 160201](https://github.com/Namancoder80/QRCodeGeneratorAppInUnity/assets/96739382/0f5c31a3-da7d-469d-8a55-71d4e7c8ce23)
+
 A Unity-based QR Code Generator app that allows users to easily create QR codes by inputting a link.
 # QR Code Generator App
 
