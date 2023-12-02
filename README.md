@@ -18,7 +18,7 @@ Follow these steps to get started with the QR Code Generator App:
 - Unity installed on your machine.
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/QRCodeGeneratorApp.git`
+1. Clone the repository: `git clone https://github.com/Namancoder80/QRCodeGeneratorAppInUnity.git`
 2. Open the project in Unity.
 3. Run the project and start generating QR codes!
 
